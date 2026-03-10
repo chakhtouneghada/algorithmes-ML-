@@ -1,4 +1,11 @@
-Développement de Modèles Prédictifs
+<img src="https://github.com/user-attachments/assets/aab39e9b-9f9d-45b2-a521-df8d07a4a965" width="200" height="auto" /> DGHOUGHI CHOROUK 
+<!-- version réduite via HTML dans Markdown -->
+<img src="https://github.com/user-attachments/assets/9606d462-735a-401a-8d8f-a15fd7cab70f" width="200" /> CHAKHTOUNE GHADA 
+![unnamed](https://github.com/user-attachments/assets/ca583b38-7484-4a0f-b5c7-4d3a4f0f7edd) EL ALAOUI EL AMRANI ZAHIA 
+
+
+
+# Développement de Modèles Prédictifs
 Ce document décrit les procédures de préparation des données, l'implémentation de modèles de classification et les méthodes d'optimisation utilisées dans le projet.
 
 1. Importation et Préparation des Données
